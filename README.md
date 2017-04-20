@@ -10,3 +10,6 @@
 > One paradigm shift being championed by the MIT OPAL/Enigma community is that of using “pre-fabricated” queries (e.g. SQL queries) that have been analyzed by experts and have been vetted to be “safe” from the perspective of privacy-preservation. The term “Open Algorithm” (OPAL) here implies that the vetted queries (“algorithms”) are made open by publishing them, allowing other experts to review them and allowing other researchers to make use of them in their own context of study.
 
 > **Precision medicine** is an innovative approach that provides a holistic understanding of a patient’s health, disease and condition, and a means to choose treatments that would be most effective for an individual. 
+
+[2. Blockchain: Securing a New Health Interoperability Experience](https://www.healthit.gov/sites/default/files/2-49-accenture_onc_blockchain_challenge_response_august8_final.pdf)
+> Patient data as a service - One of the blockchain’s healthcare interoperability strengths is its ability to replace the concept of a PHR in a way that makes patient data accessible “as a service.”
